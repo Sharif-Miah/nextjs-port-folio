@@ -17,5 +17,6 @@ export const personalData = {
   whatsAppUrl:
     'https://api.whatsapp.com/send/?phone=%2B8801906562866&text&type=phone_number&app_absent=0',
   devUsername: 'sharifmiah',
-  resume: 'https://www.linkedin.com/in/sharif-miah/',
+  resume:
+    'https://drive.google.com/file/d/1Hp5bxs20y3DK5AtuYN7eOVXgpFPVXLYe/view',
 };
