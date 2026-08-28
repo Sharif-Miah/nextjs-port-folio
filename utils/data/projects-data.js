@@ -1,9 +1,21 @@
 export const projectsData = [
   {
-    id: 1,
-    name: 'Social Circle',
+    id: 0,
+    name: 'ISOBrain.AI',
     description:
-      'E-commerce application with product search, secure authentication, and payment Integration. Non-logged-in users cannot complete purchases until they sign in. Our platform offers a secure payment option. By clicking Buy Now, you’ll be directed to The payment page is where you can finalize your order',
+      'An AI-driven ISO compliance & training platform that empowers professionals to learn, test, and apply ISO standards through an interactive AI assistant, specialized Academy modules, and a rich compliance library with multi-language capabilities.',
+    tools: [
+      'Next.js 16', 'React', 'TypeScript', 'Tailwind CSS', 'Redux Toolkit', 'shadcn/ui', 'Zod', 'React Hook Form', 'Stripe', 'next-intl', 'Framer Motion', 'Axios', 'Docker'
+    ],
+    role: 'Full Stack Developer',
+    // code: 'https://github.com/Sharif-Miah/eduplus-course-platform',
+    demo: 'https://isobrain.ai/',
+  },
+  {
+    id: 1,
+    name: 'EduPlus',
+    description:
+      'EduPlus is a modern e-learning platform built with Next.js, Tailwind CSS, NextAuth.js, and MongoDB, featuring video classes, progress tracking, Stripe payments, certificates, and student/instructor dashboards.',
     tools: [
       'NextJS',
       'Next-Auth',
@@ -14,14 +26,15 @@ export const projectsData = [
       'react-toastify',
     ],
     role: 'Full Stack Developer',
-    code: 'https://github.com/Sharif-Miah/Social-Circle-nextjs-application/tree/main',
-    demo: 'https://online-shopping-nextjs.vercel.app/',
+    code: 'https://github.com/Sharif-Miah/eduplus-course-platform',
+    demo: 'https://eduplus-course-platform.netlify.app/',
   },
+
   {
     id: 2,
-    name: 'FreshPOS',
+    name: 'SheyPOS',
     description:
-      'POS and e-commerce solution for fresh products (fruits, vegetables, groceries). Features: product catalog, cart, order management, and admin inventory control. Built using React, Redux, Ant Design, Node.js, Express.js, and MongoDB. Added printing support with react-to-print for invoices/receipts',
+      'SheyPOS is a cloud-based POS and inventory management system for retail stores. Supports fast checkout, Cash & Stripe payments, and digital receipts.',
     tools: [
       'React',
       'Redux',
