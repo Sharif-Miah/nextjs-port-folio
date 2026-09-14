@@ -18,5 +18,5 @@ export const personalData = {
     'https://api.whatsapp.com/send/?phone=%2B8801906562866&text&type=phone_number&app_absent=0',
   devUsername: 'sharifmiah',
   resume:
-    'https://drive.google.com/file/d/1v-HBzArB9yA7BwQcbGwT3W8L1q1VsNbe/view?usp=sharing',
+    'https://drive.google.com/file/d/1Ad8kKP9Jtctunc32rfOg2dyLfoeQdLXM/view',
 };

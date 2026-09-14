@@ -24,10 +24,14 @@ export const projectsData = [
       'MongoDB',
       'Tailwind CSS',
       'react-toastify',
+      'OpenAI API',
+      'Stripe',
+      'pdf-lib',
+      'Resend',
     ],
     role: 'Full Stack Developer',
     code: 'https://github.com/Sharif-Miah/eduplus-course-platform',
-    demo: 'https://eduplus-course-platform.netlify.app/',
+    demo: 'https://eduplus-peach-phi.vercel.app',
   },
 
   {
