@@ -10,6 +10,7 @@ export const projectsData = [
     role: 'Full Stack Developer',
     // code: 'https://github.com/Sharif-Miah/eduplus-course-platform',
     demo: 'https://isobrain.ai/',
+    image: '/projects/Isobrain.png',
   },
   {
     id: 1,
@@ -32,6 +33,7 @@ export const projectsData = [
     role: 'Full Stack Developer',
     code: 'https://github.com/Sharif-Miah/eduplus-course-platform',
     demo: 'https://eduplus-peach-phi.vercel.app',
+    image: '/projects/eduplus.png',
   },
 
   {
@@ -51,6 +53,7 @@ export const projectsData = [
     role: 'Full Stack Developer',
     code: 'https://github.com/Sharif-Miah/Shey-POS-client-application',
     demo: 'https://shey-pos-client-application.vercel.app/',
+    image: '/projects/freshpos.png',
   },
   {
     id: 3,
@@ -69,6 +72,7 @@ export const projectsData = [
     role: 'Full Stack Developer',
     code: 'https://github.com/Sharif-Miah/docucraft',
     demo: 'https://docucraft-fcds.vercel.app/',
+    image: '/projects/docuraft.png',
   },
   {
     id: 4,
@@ -85,6 +89,7 @@ export const projectsData = [
     role: 'Full Stack Developer',
     code: 'https://github.com/Sharif-Miah/task-manager-projectify-app/tree/main',
     demo: 'https://task-manager-projectify-app.vercel.app/',
+    image: '/projects/protocol.jpg',
   },
 ];
 
